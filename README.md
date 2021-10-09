@@ -21,4 +21,5 @@
 
 
 
-![download](https://user-images.githubusercontent.com/86410279/136662390-54b322cd-098e-4eb5-9f83-c77bbf61e632.png)
+
+![LeanDismalAlaskanmalamute-size_restricted](https://user-images.githubusercontent.com/86410279/136662886-5d1fa37f-a837-48dc-8fab-20d7d3c0242f.gif)
