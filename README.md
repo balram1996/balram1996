@@ -4,13 +4,6 @@
 
 - Hi, I am a Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML, Express js, Node.js, MongoDB, and Data Structures and Algorithms.
 
-                                                                   ## Profiencies
-                                                                   
-                                       
-                       ![react-redix](https://user-images.githubusercontent.com/86410279/136661184-48af9b4e-1c91-484a-b2db-683f96176757.jpg)
+## proficiencies
 
-
-                       ![mongoDb](https://user-images.githubusercontent.com/86410279/136661221-1256dd40-22a6-4d2e-9bdc-a7c55b7adae7.jpg)
-
-
-                         ![1fhy4ecl8lt41](https://user-images.githubusercontent.com/86410279/136661654-c80e0481-9a53-48de-9098-8d8aaabde526.gif)
+![This is an image](https://www.google.com/search?q=footer+paart+gif+animation+coding+gif&tbm=isch&ved=2ahUKEwiz4pjZwb3zAhUGCLcAHR8kDwUQ2-cCegQIABAA&oq=footer+paart+gif+animation+coding+gif&gs_lcp=CgNpbWcQDDoHCCMQ7wMQJ1DwOVjkS2DvX2gBcAB4AIAB9AGIAfAHkgEFMC42LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=o6NhYfOEAYaQ3LUPn8i8KA&bih=625&biw=1366&rlz=1C1RXQR_enIN968IN968#imgrc=PZFcjBioJzhfjM&imgdii=vaKLnFvGDDVgzM)
