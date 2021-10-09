@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I am Balram Kurmi 👋
 
-<!--
-**balram1996/balram1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Glad To See You Here! ✨
 
-Here are some ideas to get you started:
+- Hi, I am a Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML, Express js, Node.js, MongoDB, and Data Structures and Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                                   **Profiencies**
+                                                                   
+                                       
+![react-redix](https://user-images.githubusercontent.com/86410279/136661184-48af9b4e-1c91-484a-b2db-683f96176757.jpg)
+
+
+![mongoDb](https://user-images.githubusercontent.com/86410279/136661221-1256dd40-22a6-4d2e-9bdc-a7c55b7adae7.jpg)
+
+
+![1fhy4ecl8lt41](https://user-images.githubusercontent.com/86410279/136661654-c80e0481-9a53-48de-9098-8d8aaabde526.gif)
