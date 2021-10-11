@@ -3,7 +3,7 @@
 ## Glad To See You Here! ✨
 
 - Hi, I am a Full Stack Web Developer skilled in 
-- *React, Redux, Javascript, CSS, HTML, Express js, Node.js, MongoDB,  Material-UI, NPM packages and Tools like VSCode, Netlify, Heroku, git and Data Structures and Algorithms.*
+- React, Redux, Javascript, CSS, HTML, Express js, Node.js, MongoDB,  Material-UI, NPM packages and Tools like VSCode, Netlify, Heroku, git and Data Structures and Algorithms.
 
 ## proficiencies
 
