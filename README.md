@@ -15,7 +15,7 @@
 
 
 ## Portfolio
-https://portfolio-by-balram.netlify.app/
+https://balram1996.github.io/my-portfolio
 
 
 ![portfolio screenshot](https://user-images.githubusercontent.com/86410279/136802460-f9a865ba-475a-4979-b986-2e1067c79351.PNG)
