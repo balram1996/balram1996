@@ -14,15 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/balramkurmi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balramkurmi7" height="30" width="40" /></a>
-  
 <a href="https://linkedin.com/in/balram kurmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balram kurmi" height="30" width="40" /></a>
-  
 <a href="https://fb.com/balram kurmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="balram kurmi" height="30" width="40" /></a>
-  
 <a href="https://instagram.com/balram kurmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balram kurmi" height="30" width="40" /></a>
-  
 <a href="https://medium.com/kurmibalram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kurmibalram" height="30" width="40" /></a>
-  
 <a href="https://www.youtube.com/c/aas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aas" height="30" width="40" /></a>
 </p>
 
