@@ -10,7 +10,7 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJs,Mongodb**
 
 - 📫 How to reach me **Kurmibalram4@gmail.com**
-- 📫 **https://617ad5df9d4e380007326677--serene-bhabha-7e0558.netlify.app/**
+- 📫 **https://serene-bhabha-7e0558.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
