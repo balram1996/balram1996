@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJs,Mongodb**
 
-- 🚀How to reach me **Kurmibalram4@gmail.com**
+- 🚀How to reach me **Kurmibalram936@gmail.com**
 - 🙋‍♂️more about me **https://my-portfolio-pearl-nu.vercel.app/**
 
 <h2 align="center" font-weight=900>Connect with me:</h2>
