@@ -19,7 +19,7 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJs,Mongodb**
 
 - 🚀How to reach me **Kurmibalram936@gmail.com**
-- 🙋‍♂️more about me **https://my-portfolio-pq1x7ljl6-balram1996.vercel.app/**
+- 🙋‍♂️more about me **https://my-portfolio-pearl-nu.vercel.app/**
 
 <h2 align="center" font-weight=900>Connect with me:</h2>
 <h1 align="center">
